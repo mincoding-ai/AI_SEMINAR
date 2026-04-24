@@ -1,0 +1,2 @@
+# AI_SEMINAR
+AI 특강
